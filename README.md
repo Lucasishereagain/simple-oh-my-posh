@@ -1,6 +1,6 @@
 for amd64 run:
 
-curl -s https://github.com/Lucasishereagain/simple-oh-my-posh/blob/main/poshinstall-amd64.sh | sh
+curl -s https://raw.githubusercontent.com/Lucasishereagain/simple-oh-my-posh/refs/heads/main/poshinstall-amd64.sh | sh
 
 for arm64 run:
 
