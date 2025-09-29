@@ -4,6 +4,6 @@ curl -s https://github.com/Lucasishereagain/simple-oh-my-posh/blob/main/poshinst
 
 for arm64 run:
 
-curl -s https://github.com/Lucasishereagain/simple-oh-my-posh/blob/main/poshinstall-arm64.sh | sh
+curl -s https://raw.githubusercontent.com/Lucasishereagain/simple-oh-my-posh/refs/heads/main/poshinstall-arm64.sh | sh
 
 if you get hacked it is not my problem
